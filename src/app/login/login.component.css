@@ -11,3 +11,8 @@
 .simple-padding {
   padding: 25px;
 }
+
+.simple-element {
+  max-width: 500px;
+  padding: 25px;
+}

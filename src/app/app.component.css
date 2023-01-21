@@ -1,3 +1,14 @@
 .content-page {
   padding: 2em;
 }
+
+.login-page {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./media/bg-building.jpg");
+  background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
